@@ -1,3 +1,6 @@
-Librairie pour le projet 14.
+# Pickadayoc
 
-Npm install pickadayoc
+## Installation
+
+1. Exécutez la commande `npm install pickadayoc` pour installer les dépendances.
+
